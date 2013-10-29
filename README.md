@@ -9,7 +9,7 @@ Uses numpy to crunch numbers and ruby to do some file renaming.
 
 **special thanks** Lenny Fukshansky (Thesis advisor).
 
-![Image](../master/zeta_function?raw=true)
+![Image](../master/zeta_function.png?raw=true)
 
 Use
 ----
